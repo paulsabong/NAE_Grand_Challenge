@@ -6,6 +6,8 @@ What determines the success of virtual reality simulations in the context of edu
 ### Additional Ressource
 Download [Pamphlet](https://www.canva.com/design/DAF00KFXiXw/v3Gf20NfrZMnzfd-9xMbIQ/edit?utm_content=DAF00KFXiXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for more information of app and algorithm.
 ### Demo 
+[![Watch the video](https://imagetolink.com/ib/6d63xX0DzS.png)](https://youtu.be/J1-4dyuc4A0)
+
 
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
