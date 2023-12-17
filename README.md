@@ -6,3 +6,22 @@ What determines the success of virtual reality simulations in the context of edu
 ### Additional Ressource
 Download [Pamphlet](https://www.canva.com/design/DAF00KFXiXw/v3Gf20NfrZMnzfd-9xMbIQ/edit?utm_content=DAF00KFXiXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for more information of app and algorithm.
 ### Demo 
+
+### How to install and run the game
+* Ensure you have MATLAB and Git installed to your computer
+* Run your Terminal and type the following code:
+* Ensure that you are in the Desktop file directory 
+```
+ls 
+cd ~/Desktop
+```
+* Download NAE_Grand_Challenge folder from Github
+```
+git clone https://github.com/paulsabong/NAE_Grand_Challenge.git
+```
+* Open Matlab -> Click Apps tab -> Click Design App -> Click Open -> Click NAE_Grand_Challenge folder -> Click and Open NAE_Menu.mlapp file
+* Click Run (F5)
+
+
+  
+
