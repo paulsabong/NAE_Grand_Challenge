@@ -1,6 +1,6 @@
 ## Virtual Reality and Training 
 ### About 
-An app used to analzye and interpret data on the effects of virtual reality in STEM industries. This app attempts to address the importance of virtual reality through a quantifiable lens. Created in MATLAB App Designer.
+An app used to analzye and interpret data on the effects of virtual reality in STEM industries. This app attempts to address the importance of virtual reality through a quantifiable lens. A group university project created in MATLAB App Designer.
 ### Research Question 
 What determines the success of virtual reality simulations in the context of education and training? Based on these results, how does it compare to traditional methods used in such spaces?
 ### Additional Ressource
