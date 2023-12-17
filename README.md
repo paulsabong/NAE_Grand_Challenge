@@ -9,7 +9,7 @@ Download [Pamphlet](https://www.canva.com/design/DAF00KFXiXw/v3Gf20NfrZMnzfd-9xM
 [![Watch the video](https://imagetolink.com/ib/6d63xX0DzS.png)](https://youtu.be/SMcFOasUpMs?si=FoQ3lPJC8O0Unl9r)
 
 
-### How to install and run the game
+### How to install and run the app
 * Ensure you have MATLAB and Git installed to your computer
 * Run your Terminal and type the following code:
 * Ensure that you are in the Desktop file directory 
